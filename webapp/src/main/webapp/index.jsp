@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> **** Tomorrow we will start the session @7AM  **** </h1>   
+         <h1> **** welcome Nagella HImakiran  **** </h1>   
 	 
 
     </section>    
